@@ -49,3 +49,7 @@ s2 = "Apple is looking at buying U.K. startup for 1 billion$!
 5) Parts of Speech Tagging
 6) Named Entity Recognition
 7) Sentence Segmentation
+
+
+Tokenization:
+
